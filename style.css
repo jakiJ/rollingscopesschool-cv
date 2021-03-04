@@ -34,6 +34,40 @@ h2 {
     padding: 10px;
 }
 
+/*MAIN*/
+
+.main-section {
+    display: flex;
+    padding: 20px;
+}
+
+.block-left {
+    border-right: 7px solid #000;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+h3 {
+    font-size: 27px;
+}
+
+.contact li {
+    display: flex;
+    align-items: center;
+}
+
+li img {
+    margin-right: 10px;
+}
+
+.block-right {
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+.skills ul {
+    padding-left: 10px;
+}
 /*FOOTER*/
 
 .logo {
