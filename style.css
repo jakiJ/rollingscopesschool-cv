@@ -39,6 +39,11 @@ h2 {
 .main-section {
     display: flex;
     padding: 20px;
+    justify-content: center;
+}
+
+p {
+    padding-left: 10px;
 }
 
 .block-left {
@@ -49,6 +54,10 @@ h2 {
 
 h3 {
     font-size: 27px;
+}
+
+.about {
+    padding-bottom: 50px;
 }
 
 .contact li {
@@ -68,6 +77,14 @@ li img {
 .skills ul {
     padding-left: 10px;
 }
+pre {
+    font-family: monospace;
+}
+
+.eng p {
+    padding-left: 10px;
+}
+
 /*FOOTER*/
 
 .logo {
